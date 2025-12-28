@@ -36,20 +36,46 @@ I'm **Dhiraj Dahale**, a **Full Stack Developer** and **AI/ML Enthusiast** from 
 ### 🛠️ Tech Stack
 
 <div align="center">
+
+  <!-- Animated Tech Stack using Marquee-style SVG -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
+  </picture>
+
+  <br><br>
+
+  <!-- Languages - with animated theme -->
+  <img src="https://skillicons.dev/icons?i=python,js,ts,cpp,c,java,html,css&theme=dark&perline=8" />
   
-  #### Languages
-  <img src="https://skillicons.dev/icons?i=python,js,ts,cpp,c,java,html,css" />
+  <br>
   
-  #### Frontend & Backend
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,fastapi,flask" />
+  <!-- Frameworks & Libraries -->
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,express,fastapi,flask&theme=dark&perline=7" />
   
-  #### AI / ML & Data Science
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,pandas,numpy" />
+  <br>
   
-  #### Cloud, DevOps & Tools
-  <img src="https://skillicons.dev/icons?i=gcp,aws,firebase,docker,githubactions,git,github,vscode" />
+  <!-- AI/ML & Data -->
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=dark&perline=5" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=pandas,numpy&theme=dark" height="48"/>
+  
+  <br>
+  
+  <!-- Cloud & DevOps -->
+  <img src="https://skillicons.dev/icons?i=gcp,aws,firebase,docker,kubernetes,githubactions&theme=dark&perline=6" />
+  
+  <br>
+  
+  <!-- Tools -->
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,neovim,linux,bash&theme=dark&perline=6" />
 
 </div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24&height=2&section=header" width="100%"/>
+</div>
+
 
 ---
 
