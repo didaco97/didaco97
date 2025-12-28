@@ -46,29 +46,11 @@ I'm **Dhiraj Dahale**, a **Full Stack Developer** and **AI/ML Enthusiast** from 
 
   <br><br>
 
-  <!-- Languages - with animated theme -->
-  <img src="https://skillicons.dev/icons?i=python,js,ts,cpp,c,java,html,css&theme=dark&perline=8" />
-  
-  <br>
-  
-  <!-- Frameworks & Libraries -->
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,express,fastapi,flask&theme=dark&perline=7" />
-  
-  <br>
-  
-  <!-- AI/ML & Data -->
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=dark&perline=5" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=pandas,numpy&theme=dark" height="48"/>
-  
-  <br>
-  
-  <!-- Cloud & DevOps -->
-  <img src="https://skillicons.dev/icons?i=gcp,aws,firebase,docker,kubernetes,githubactions&theme=dark&perline=6" />
-  
-  <br>
-  
-  <!-- Tools -->
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,neovim,linux,bash&theme=dark&perline=6" />
+  <!-- Tech Stack Icons - Uniform 8 per row -->
+  <img src="https://skillicons.dev/icons?i=python,js,ts,cpp,java,html,css,react&theme=dark&perline=8" />
+  <img src="https://skillicons.dev/icons?i=nextjs,tailwind,nodejs,express,fastapi,flask,tensorflow,pytorch&theme=dark&perline=8" />
+  <img src="https://skillicons.dev/icons?i=opencv,gcp,aws,firebase,docker,kubernetes,git,github&theme=dark&perline=8" />
+  <img src="https://skillicons.dev/icons?i=vscode,neovim,linux,bash&theme=dark&perline=8" />
 
 </div>
 
