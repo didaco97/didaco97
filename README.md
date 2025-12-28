@@ -88,20 +88,7 @@ I'm **Dhiraj Dahale**, a **Full Stack Developer** and **AI/ML Enthusiast** from 
 | **AgriConnect** <br> *IIT Madras Best AI* 🏅 | AI Agriculture Advisory System. Crop care tips and market trends in regional languages. | ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi) ![GPT-4](https://img.shields.io/badge/GPT--4-412991?style=flat-square&logo=openai&logoColor=white) |
 | **SmartSurveil** <br> *Innovation Award* 🥇 | AI-Based Campus Security System. Real-time people counting and attire detection via CCTV. | ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) |
 
----
 
-### ⚡ GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=didaco97&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=didaco97&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Langs" height="150" />
-</div>
-<br>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=didaco97&theme=tokyonight&hide_border=true&background=0d1117" alt="Streak" />
-</div>
-
----
 
 ### 🎖️ Achievements & key roles
 
