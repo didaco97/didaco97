@@ -1,16 +1,11 @@
 <div align="center">
   
-  <!-- Animated Header Art -->
-  <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="100%" height="150"/>
-  
-  <!-- Animated Glowing Name -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=70&lines=%3C%2F%3E+DHIRAJ+DAHALE" alt="Name" />
-  </a>
+  <!-- Animated Header with Name Overlay -->
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=DHIRAJ%20DAHALE&fontSize=50&fontColor=58a6ff&fontAlignY=50&desc=%F0%9F%92%BB%20Full%20Stack%20Developer%20%7C%20%F0%9F%A4%96%20AI%2FML%20Engineer%20%7C%20%F0%9F%8F%86%202x%20SIH%20Winner&descSize=14&descAlignY=70&descAlign=50&animation=twinkling&stroke=58a6ff&strokeWidth=2" width="100%"/>
   
   <!-- Tagline with typewriter effect -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=500&color=A855F7&center=true&vCenter=true&width=550&height=30&lines=%F0%9F%92%BB+Full+Stack+Developer;%F0%9F%A4%96+AI+%2F+ML+Engineer;%F0%9F%8F%86+2x+Smart+India+Hackathon+Winner;%F0%9F%9A%80+Building+the+future+with+Code+%26+AI" alt="Tagline" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=500&color=A855F7&center=true&vCenter=true&width=550&height=30&lines=%F0%9F%9A%80+Building+the+future+with+Code+%26+AI;%E2%9C%A8+Open+Source+Contributor;%F0%9F%94%A5+Hackathon+Enthusiast;%F0%9F%8C%9F+Let's+Connect!" alt="Tagline" />
   </a>
 
 
