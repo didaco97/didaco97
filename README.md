@@ -1,11 +1,13 @@
 <div align="center">
   
-  <!-- Animated Gradient Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:58a6ff,100:a855f7&height=200&section=header&text=DHIRAJ%20DAHALE&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20AI%2FML%20Engineer%20%7C%202x%20SIH%20Winner&descSize=18&descAlignY=55&descAlign=50&animation=fadeIn" width="100%"/>
-
-  <!-- Typing SVG -->
+  <!-- Animated Glowing Name -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&height=50&lines=Building+the+future+with+Code+%26+AI+%F0%9F%9A%80;Open+Source+Contributor;Hackathon+Enthusiast;Let's+Connect!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=false&width=500&height=60&lines=DHIRAJ+DAHALE" alt="Name" />
+  </a>
+  
+  <!-- Tagline with typewriter effect -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=500&color=A855F7&center=true&vCenter=true&width=500&height=30&lines=Full+Stack+Developer;AI+%2F+ML+Engineer;2x+Smart+India+Hackathon+Winner+%F0%9F%8F%86;Building+the+future+with+Code+%26+AI+%F0%9F%9A%80" alt="Tagline" />
   </a>
 
 
