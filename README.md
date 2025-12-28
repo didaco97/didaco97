@@ -1,8 +1,5 @@
 <div align="center">
   
-  <!-- Matrix Falling Code Animation -->
-  <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="100%" height="120"/>
-  
   <!-- Animated Header with Name -->
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=45&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=70&lines=%3C%2F%3E+DHIRAJ+DAHALE" alt="Name" />
