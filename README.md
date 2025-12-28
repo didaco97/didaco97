@@ -35,41 +35,83 @@ I'm **Dhiraj Dahale**, a **Full Stack Developer** and **AI/ML Enthusiast** from 
 
 ### 🛠️ Tech Stack
 
+<!-- Snake Animation eating contribution grid -->
 <div align="center">
-
-  <!-- Animated Tech Stack using Marquee-style SVG -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/didaco97/didaco97/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/didaco97/didaco97/output/github-snake.svg" />
+    <img alt="Snake eating contributions" src="https://raw.githubusercontent.com/didaco97/didaco97/output/ocean.gif" width="100%" />
   </picture>
+</div>
 
-  <br><br>
+<br>
 
-  <!-- Languages - with animated theme -->
-  <img src="https://skillicons.dev/icons?i=python,js,ts,cpp,c,java,html,css&theme=dark&perline=8" />
-  
-  <br>
-  
-  <!-- Frameworks & Libraries -->
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,express,fastapi,flask&theme=dark&perline=7" />
-  
-  <br>
-  
-  <!-- AI/ML & Data -->
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=dark&perline=5" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=pandas,numpy&theme=dark" height="48"/>
-  
-  <br>
-  
-  <!-- Cloud & DevOps -->
-  <img src="https://skillicons.dev/icons?i=gcp,aws,firebase,docker,kubernetes,githubactions&theme=dark&perline=6" />
-  
-  <br>
-  
-  <!-- Tools -->
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,neovim,linux,bash&theme=dark&perline=6" />
+<!-- Bento Grid Tech Stack -->
+<div align="center">
+<table>
+<tr>
+<td align="center" width="50%">
 
+### 💻 Languages
+<br>
+<img src="https://skillicons.dev/icons?i=python,js,ts,java&theme=dark" />
+<br>
+<img src="https://skillicons.dev/icons?i=cpp,c,html,css&theme=dark" />
+<br><br>
+
+</td>
+<td align="center" width="50%">
+
+### ⚛️ Frontend
+<br>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite&theme=dark" />
+<br><br>
+
+</td>
+</tr>
+<tr>
+<td align="center">
+
+### 🔧 Backend
+<br>
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask&theme=dark" />
+<br><br>
+
+</td>
+<td align="center">
+
+### 🤖 AI / ML
+<br>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=dark" />
+<br>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=pandas,numpy,jupyter&theme=dark" height="48" />
+<br><br>
+
+</td>
+</tr>
+<tr>
+<td align="center">
+
+### ☁️ Cloud & DevOps
+<br>
+<img src="https://skillicons.dev/icons?i=gcp,aws,firebase,docker&theme=dark" />
+<br>
+<img src="https://skillicons.dev/icons?i=kubernetes,githubactions&theme=dark" />
+<br><br>
+
+</td>
+<td align="center">
+
+### 🛠️ Tools & AI Assistants
+<br>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,neovim&theme=dark" />
+<br>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=cursor,claude&theme=dark" height="48" />
+<br><br>
+
+</td>
+</tr>
+</table>
 </div>
 
 <div align="center">
