@@ -1,7 +1,12 @@
 <div align="center">
   
-  <!-- Animated Header with Name Overlay -->
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=DHIRAJ%20DAHALE&fontSize=50&fontColor=58a6ff&fontAlignY=50&desc=%F0%9F%92%BB%20Full%20Stack%20Developer%20%7C%20%F0%9F%A4%96%20AI%2FML%20Engineer%20%7C%20%F0%9F%8F%86%202x%20SIH%20Winner&descSize=14&descAlignY=70&descAlign=50&animation=twinkling&stroke=58a6ff&strokeWidth=2" width="100%"/>
+  <!-- Matrix Falling Code Animation -->
+  <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="100%" height="120"/>
+  
+  <!-- Animated Header with Name -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=45&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=70&lines=%3C%2F%3E+DHIRAJ+DAHALE" alt="Name" />
+  </a>
   
   <!-- Tagline with typewriter effect -->
   <a href="https://git.io/typing-svg">
